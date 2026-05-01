@@ -1,6 +1,3 @@
-<img width="830" height="476" alt="image" src="https://github.com/user-attachments/assets/9f0e901b-3161-436d-b551-f0f7a4381a1b" />
-
-
 # 3gpp-spec-manager
 A GUI tool for browsing, downloading, and managing 3GPP specifications
 
@@ -20,3 +17,5 @@ This application requires Python 3.x and the following third-party libraries:
 - `beautifulsoup4`
 - `pystray`
 - `Pillow`
+
+<img width="562" height="344" alt="image" src="https://github.com/user-attachments/assets/b40b017f-d106-4d37-80ca-1a528135a2b8" />
