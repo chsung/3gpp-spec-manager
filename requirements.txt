@@ -1,0 +1,5 @@
+requests
+beautifulsoup4
+ttkbootstrap
+pystray
+Pillow
