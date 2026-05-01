@@ -4,11 +4,10 @@ A GUI application to browse, download, and manage 3GPP specifications.
 
 ## Features
 
-- **Browse & Search:** Easily explore and find 3GPP specifications by series.
-- **Automated Downloads:** Connects directly to the official 3GPP FTP server to fetch and extract the latest specification documents.
-- **Local Management:** Organizes downloaded documents within a designated root folder.
-- **Update Tracking:** Automatically compares your local files with the FTP server to track and indicate when newer versions are available.
-- **Direct Web Links:** Provides direct links to the official 3GPP web page for any specification.
+- **Automated Downloads:** Download and extract the latest specifications from the 3GPP FTP server.
+- **Local Management:** Organize downloaded files in a local folder.
+- **Update Tracking:** Check for and indicate newer versions from the FTP server.
+- **Quick File Access:** Open files by double-clicking items in the list.
 
 ## Prerequisites
 
@@ -18,3 +17,4 @@ This application requires Python 3.x. Dependencies are listed in requirements.tx
 
 You can download the latest version from the Releases page.
 
+<img width="833" height="491" alt="image" src="https://github.com/user-attachments/assets/0f344469-c50e-4fcb-adba-a52b97264ae4" />
