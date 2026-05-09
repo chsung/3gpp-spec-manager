@@ -17,4 +17,6 @@ This application requires Python 3.x. Dependencies are listed in requirements.tx
 
 Get the latest executable from the Releases page.
 
-<img width="833" height="491" alt="image" src="https://github.com/user-attachments/assets/0f344469-c50e-4fcb-adba-a52b97264ae4" />
+<img width="929" height="609" alt="image" src="https://github.com/user-attachments/assets/3b0e4d21-cd06-4868-bf54-fdbeda7aa37f" />
+
+
